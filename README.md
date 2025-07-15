@@ -1,1 +1,20 @@
-# testReadmi
+# Привет! 👋 Меня зовут [Дима]  
+
+### 🚀 Обо мне  
+- 🔭 Ищу стажировку/работу в Java-разработке.  
+- 🌱 Изучаю: Java Core, Spring Boot, SQL.  
+- 📫 Как связаться: [email/Telegram/LinkedIn].  
+
+### 🛠️ Технологии и инструменты  
+![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk)  
+![Spring](https://img.shields.io/badge/Spring-6.0-blue?logo=spring)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+
+### 📂 Мои проекты  
+| Проект | Описание | Технологии |  
+|--------|----------|------------|  
+| [Калькулятор матриц](ссылка) | Консольное приложение для операций с матрицами | Java, OOP, JUnit |  
+| [Чат на сокетах](ссылка) | Многопоточный чат | Java, Sockets, Multithreading |  
+
+### 📊 Статистика GitHub  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШНИК&layout=compact&theme=radical)](https://github.com/bnbn2121) 
