@@ -17,4 +17,4 @@
 | [Чат на сокетах](ссылка) | Многопоточный чат | Java, Sockets, Multithreading |  
 
 ### 📊 Статистика GitHub  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШНИК&layout=compact&theme=radical)](https://github.com/bnbn2121) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbn2121&layout=compact&theme=radical)](https://github.com/bnbn2121) 
