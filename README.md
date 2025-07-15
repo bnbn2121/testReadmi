@@ -2,7 +2,7 @@
 
 ### 🚀 Обо мне 
 - 🔭 Ищу стажировку/работу в Java-разработке.
-- 👨‍🎓 Окончил в 2025 году курс Java Core https://github.com/bnbn2121/Certificates/blob/main/Certificate%20Java%20Core%20IT-Academy.pdf 
+- 👨‍🎓 Окончил в 2025 году курс Java Core [Документ](https://github.com/bnbn2121/Certificates/blob/main/Certificate%20Java%20Core%20IT-Academy.pdf)
 - 🌱 Изучаю: Java Core, Spring Boot, SQL.  
 - 📫 Как связаться: [email/Telegram/LinkedIn].  
 
