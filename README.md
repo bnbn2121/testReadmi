@@ -41,4 +41,4 @@
 
 ## 📬 Контакты:
 - Email: [shelutods@gmail.com]
-- Telegram: [@brbr2121]
+- Telegram: [https://t.me/brbr2121]
