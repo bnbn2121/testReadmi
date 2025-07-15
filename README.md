@@ -1,7 +1,10 @@
 # Привет! 👋 Меня зовут Дима 
 
+Я начинающий Java-разработчик из Беларуси. 
+Хочу войти в мир IT и развиваться в этой сфере.
+
 ### 🚀 Обо мне 
-- 🔭 Ищу стажировку/работу в Java-разработке.
+- 🔎 Ищу стажировку/работу в Java-разработке.
 - 👨‍🎓 Окончил в 2025 году курс Java Core ([сертификат](https://github.com/bnbn2121/Certificates/blob/main/Certificate%20Java%20Core%20IT-Academy.pdf))
 - 🌱 Изучаю: Java Core, Spring Boot, SQL.  
 - 📫 Как связаться: [email/Telegram/LinkedIn].  
@@ -19,3 +22,23 @@
 
 ### 📊 Статистика GitHub  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbn2121&layout=compact&theme=radical)](https://github.com/bnbn2121) 
+
+
+
+
+## 🧰 Стек технологий:
+- Java Core (OOP, Collections, Streams, Multithreading)
+- IntelliJ IDEA / Eclipse IDE
+- Maven, Tomcat, Spring
+- Git, GitHub
+
+## 📂 Проекты:
+- **JavaCalc** – калькулятор с GUI (Swing)
+- **TaskManager** – CLI-менеджер задач с сохранением в файл
+- **DesignPatternDemo** – наглядная реализация паттернов
+- **WebLoginDemo** – логин через сервлеты и JSP
+- **SpringRestDemo** – простое REST-приложение на Spring
+
+## 📬 Контакты:
+- Email: [твой email]
+- LinkedIn: [если есть]
