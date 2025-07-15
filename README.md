@@ -40,5 +40,5 @@
 - **SpringRestDemo** – простое REST-приложение на Spring
 
 ## 📬 Контакты:
-- Email: [shelutods@gmail.com]
-- Telegram: [[@brbr2121](https://t.me/brbr2121)]
+- Email: shelutods@gmail.com
+- Telegram: [@brbr2121](https://t.me/brbr2121)
