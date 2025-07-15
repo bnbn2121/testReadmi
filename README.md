@@ -8,7 +8,6 @@
 - 🔎 Ищу стажировку/работу в Java-разработке.
 - 👨‍🎓 Окончил в 2025 году курс Java Core ([сертификат](https://github.com/bnbn2121/Certificates/blob/main/Certificate%20Java%20Core%20IT-Academy.pdf))
 - 🌱 Изучаю: Java Core, Spring Boot, SQL.  
-- 📫 Как связаться: [email] shelutods@gmail.com
 
 ### 🛠️ Технологии и инструменты  
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk)  
@@ -41,5 +40,5 @@
 - **SpringRestDemo** – простое REST-приложение на Spring
 
 ## 📬 Контакты:
-- Email: [твой email]
-- LinkedIn: [если есть]
+- Email: [shelutods@gmail.com]
+- Telegram: [@brbr2121]
