@@ -11,23 +11,23 @@
 
 ### 🛠️ Технологии и инструменты
 
-#### Язык и платформа
+##### Язык и платформа
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-999999?style=for-the-badge)
 ![Collections](https://img.shields.io/badge/Collections-999999?style=for-the-badge)
 ![Streams](https://img.shields.io/badge/Streams-999999?style=for-the-badge)
 ![Multithreading](https://img.shields.io/badge/Multithreading-999999?style=for-the-badge)
 
-#### IDE
+##### IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-#### Библиотеки и фреймворки
+##### Библиотеки и фреймворки
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-#### Системы контроля версий
+##### Системы контроля версий
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
