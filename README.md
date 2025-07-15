@@ -21,9 +21,6 @@
 | [Калькулятор матриц](ссылка) | Консольное приложение для операций с матрицами |
 | [Чат на сокетах](ссылка) | Многопоточный чат |  
 
-### 📊 Статистика GitHub  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbn2121&layout=compact&theme=radical)](https://github.com/bnbn2121) 
-
 ## 📬 Контакты:
 - Email: shelutods@gmail.com
 - Telegram: [@brbr2121](https://t.me/brbr2121)
