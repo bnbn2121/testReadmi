@@ -10,10 +10,10 @@
 - 🌱 Изучаю: Java Core, Spring Boot, SQL.  
 
 ### 🛠️ Технологии и инструменты  
-![Java](https://img.shields.io/badge/Java-orange?logo=openjdk) ![OOP](https://img.shields.io/badge/OOP-blue) ![Collections](https://img.shields.io/badge/Collections-blue) ![Streams](https://img.shields.io/badge/Streams-blue) ![Multithreading](https://img.shields.io/badge/Multithreading-blue)  
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk) ![OOP](https://img.shields.io/badge/OOP-green) ![Collections](https://img.shields.io/badge/Collections-green) ![Streams](https://img.shields.io/badge/Streams-green) ![Multithreading](https://img.shields.io/badge/Multithreading-green)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?logo=intellij-idea) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-purple?logo=eclipse)  
 ![Maven](https://img.shields.io/badge/Maven-blue?logo=apache-maven) ![Tomcat](https://img.shields.io/badge/Tomcat-blue?logo=apache-tomcat) ![Spring](https://img.shields.io/badge/Spring-blue?logo=spring)  
-![Git](https://img.shields.io/badge/Git-green?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-green?logo=github)
+![Git](https://img.shields.io/badge/Git-gray?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
 
 ### 📂 Мои проекты  
 | Проект | Описание |
