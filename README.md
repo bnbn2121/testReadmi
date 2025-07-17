@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk) ![OOP](https://img.shields.io/badge/OOP-blue) ![Collections](https://img.shields.io/badge/Collections-blue) ![Streams](https://img.shields.io/badge/Streams-blue) ![Multithreading](https://img.shields.io/badge/Multithreading-blue)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellij-idea) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-purple?logo=eclipse)  
 ![Maven](https://img.shields.io/badge/Maven-red?logo=apache-maven) ![Tomcat](https://img.shields.io/badge/Tomcat-yellow?logo=apache-tomcat) ![Spring](https://img.shields.io/badge/Spring-green?logo=spring)  
-![Git](https://img.shields.io/badge/Git-e3ded3?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=181717)
+![Git](https://img.shields.io/badge/Git-e3ded3?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)
 
 ### 📂 Мои проекты  
 | Проект | Описание |
@@ -24,3 +24,4 @@
 ## 📬 Контакты:
 - Email: shelutods@gmail.com
 - Telegram: [@brbr2121](https://t.me/brbr2121)
+- 
