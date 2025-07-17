@@ -12,7 +12,7 @@
 ### 🛠️ Технологии и инструменты  
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk) ![OOP](https://img.shields.io/badge/OOP-green) ![Collections](https://img.shields.io/badge/Collections-green) ![Streams](https://img.shields.io/badge/Streams-green) ![Multithreading](https://img.shields.io/badge/Multithreading-green)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?logo=intellij-idea) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-purple?logo=eclipse)  
-![Spring](https://img.shields.io/badge/Spring-blue?logo=spring) ![Maven](https://img.shields.io/badge/Maven-blue?logo=apache-maven) ![Tomcat](https://img.shields.io/badge/Tomcat-blue?logo=apache-tomcat)
+![Spring](https://img.shields.io/badge/Spring-blue?logo=spring) ![Maven](https://img.shields.io/badge/Maven-blue?logo=apache-maven) ![Tomcat](https://img.shields.io/badge/Tomcat-blue?logo=apache-tomcat)  
 ![Git](https://img.shields.io/badge/Git-gray?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
 
 ### 📂 Мои проекты  
