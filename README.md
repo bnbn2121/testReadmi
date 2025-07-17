@@ -11,9 +11,9 @@
 
 ### 🛠️ Технологии и инструменты  
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk) ![OOP](https://img.shields.io/badge/OOP-blue) ![Collections](https://img.shields.io/badge/Collections-blue) ![Streams](https://img.shields.io/badge/Streams-blue) ![Multithreading](https://img.shields.io/badge/Multithreading-blue)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellij-idea) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-purple?logo=eclipse)  
-![Maven](https://img.shields.io/badge/Maven-red?logo=apache-maven) ![Tomcat](https://img.shields.io/badge/Tomcat-5b40f5?logo=apache-tomcat) ![Spring](https://img.shields.io/badge/Spring-5b40f5?logo=spring)  
-![Git](https://img.shields.io/badge/Git-e3ded3?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?logo=intellij-idea) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-purple?logo=eclipse)  
+![Maven](https://img.shields.io/badge/Maven-5b40f5?logo=apache-maven) ![Tomcat](https://img.shields.io/badge/Tomcat-5b40f5?logo=apache-tomcat) ![Spring](https://img.shields.io/badge/Spring-5b40f5?logo=spring)  
+![Git](https://img.shields.io/badge/Git-black?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ### 📂 Мои проекты  
 | Проект | Описание |
